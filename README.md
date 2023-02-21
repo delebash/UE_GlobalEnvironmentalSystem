@@ -20,7 +20,7 @@ ___
 
 3) Foliage Interaction and Wind System -- This system was extracted and modified from the awesome Project Nature pack -- Permenantly Free Nature Assets on UE Marketplace https://www.unrealengine.com/marketplace/en-US/profile/Project+Nature?count=20&sortBy=effectiveDate&sortDir=DESC&start=
 
-4) Foliage Health And Season -- Adjust the color of your foliage.  Extracted from MS Global Foliage Actor.  Tried to make more generaic so it will work with non MS Assets
+4) Foliage Health And Season -- Adjust the color of your foliage.  Extracted from MS Global Foliage Actor.  Tried to make it more generaic so it will work with non MS Foliage
 
 5) Ambient Wind System Integration -- https://www.unrealengine.com/marketplace/en-US/product/ambient-wind-system
 
