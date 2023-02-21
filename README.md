@@ -1,6 +1,6 @@
 # Unreal Engine 5.1 Global Envinromental System (GES)
 
-This system integrates Ultra Dynamic Sky Weather with Megascan Foliage, Trees, Props, and various other Systems.  
+This system integrates Ultra Dynamic Sky Weather (potentially any Weather System) with Megascan Foliage, Trees, Props, and various other Systems.  
 
 ## Setup Video:
 
