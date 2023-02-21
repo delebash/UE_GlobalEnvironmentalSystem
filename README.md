@@ -22,7 +22,7 @@ ___
 
 4) Foliage Health And Season -- Adjust the color of your foliage.  Extracted from MS Global Foliage Actor.  Tried to make it more generaic so it will work with non MS Foliage
 
-5) Ambient Wind System Integration -- https://www.unrealengine.com/marketplace/en-US/product/ambient-wind-system
+5) Ambient Wind System Integration -- Enable any actor to receive wind  https://www.unrealengine.com/marketplace/en-US/product/ambient-wind-system
 
 6) Project Nature Integration   -- https://www.unrealengine.com/marketplace/en-US/profile/Project+Nature?
 
