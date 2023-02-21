@@ -41,5 +41,5 @@ https://github.com/delebash/UnrealMapboxBridgePlugin
 Unreal Vault Organizer -  Organize your Unreal Vault with Tags and get update notifications
 https://github.com/delebash/unreal_vault_organizer
 
-TextureFromMeshCreator - Creates a texture from a screen shot of a Mesh.  Main puporse for this was so I could easily capture the show print of my characters so I could stamp that texture into the landscape for footprint effects.
+Texture From Mesh Creator - Creates a texture from a screen shot of a Mesh.  Main puporse for this was so I could easily capture the show print of my characters so I could stamp that texture into the landscape for footprint effects.
 https://github.com/delebash/TextureFromMeshCreator
