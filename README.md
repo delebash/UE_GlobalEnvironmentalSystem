@@ -1,4 +1,4 @@
-# Unreal Engine 5.1 Global Envinromental System (GES)
+# Unreal Engine 5.1 Global Environmental System (GES)
 
 This system integrates Ultra Dynamic Sky Weather (potentially any Weather System) with Megascan Foliage, Trees, Props,  UE Water, Ambient Wind System, and various other Systems.
  
@@ -14,7 +14,7 @@ ___
 
 ## What you get
 
-1) Global Environment System Blueprint (GES) -- Change wind strength, direction, seasons, health, and weather effects on MS Trees, foliage and props such as rocks or logs
+1) Global Environmental System Blueprint (GES) -- Change wind strength, direction, seasons, health, and weather effects on MS Trees, foliage and props such as rocks or logs
 
 2) Ultra Dynamic Sky/Weather Integration -- Weather effects are added to MS Materials. https://www.unrealengine.com/marketplace/en-US/product/ultra-dynamic-sky?sessionInvalidated=true
 
