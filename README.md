@@ -1,9 +1,11 @@
-# Unreal Engine 5.1 Global Envinromental System (GES)
+# Unreal Engine 5.1 Global Environmental System (GES)
 
-This system integrates Ultra Dynamic Sky Weather (potentially any Weather System) with Megascan Foliage, Trees, Props, and various other Systems.  
+This system integrates Ultra Dynamic Sky Weather (potentially any Weather System) with Megascan Foliage, Trees, Props,  UE Water, Ambient Wind System, and various other Systems.
+ 
 
 ## Setup Video:
-https://www.youtube.com/watch?v=aE0aYRHvUMI
+Part 1 --  https://www.youtube.com/watch?v=aE0aYRHvUMI
+Part 2 -- UE Water and AWS https://youtu.be/UWpersuF8DE
 
 ## Download compiled version of Runtime Demo
 
@@ -12,7 +14,7 @@ ___
 
 ## What you get
 
-1) Global Environment System Blueprint (GES) -- Change wind strength, direction, seasons, health, and weather effects on MS Trees, foliage and props such as rocks or logs
+1) Global Environmental System Blueprint (GES) -- Change wind strength, direction, seasons, health, and weather effects on MS Trees, foliage and props such as rocks or logs
 
 2) Ultra Dynamic Sky/Weather Integration -- Weather effects are added to MS Materials. https://www.unrealengine.com/marketplace/en-US/product/ultra-dynamic-sky?sessionInvalidated=true
 
@@ -43,3 +45,5 @@ https://github.com/delebash/unreal_vault_organizer
 
 Texture From Mesh Creator - Creates a texture from a screen shot of a Mesh.  Main puporse for this was so I could easily capture the show print of my characters so I could stamp that texture into the landscape for footprint effects.
 https://github.com/delebash/TextureFromMeshCreator
+
+## Big Thanks to Project Nature and Megascan Trees Global Foliage Actor
