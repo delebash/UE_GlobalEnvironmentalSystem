@@ -8,6 +8,10 @@ Part 1 --  https://www.youtube.com/watch?v=aE0aYRHvUMI
 
 Part 2 -- UE Water and AWS https://youtu.be/UWpersuF8DE
 
+Part 3 -- Setup Foliage Interaction and Wind System (FIWS) on non Megascan Foliage.
+
+https://youtu.be/lZbr-bpoPA8
+
 ## Download compiled version of Runtime Demo
 
 
