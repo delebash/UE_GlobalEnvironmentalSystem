@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WaterBlueprintFunctionLibrary.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\3DProjects\github\DansProjects\Build52\Plugins\WaterBlueprintFunctionLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterBlueprintFunctionLibrary\Module.WaterBlueprintFunctionLibrary.cpp.obj"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"F:\3DProjects\github\DansProjects\Build52\Plugins\WaterBlueprintFunctionLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterBlueprintFunctionLibrary\UnrealEditor-WaterBlueprintFunctionLibrary.lib"
