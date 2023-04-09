@@ -2,15 +2,24 @@
 
 This system integrates Ultra Dynamic Sky Weather (potentially any Weather System) with Megascan Foliage, Trees, Props,  UE Water, Ambient Wind System, and various other Systems.
  
+Note:  In this current version UDS is required and the only dependency. All the quxiel materials use UDS Wet Weather Effects.  But we should be able to use other Weather Systems such as Sky Creator I just have not done any of the integration or material integration for that yet.
 
 ## Setup Video:
 Part 1 --  https://www.youtube.com/watch?v=aE0aYRHvUMI
 
 Part 2 -- UE Water and AWS https://youtu.be/UWpersuF8DE
 
-Part 3 -- Setup Foliage Interaction and Wind System (FIWS) on non Megascan Foliage.
+Part 3 -- Foliage Interaction and Wind System https://youtu.be/lZbr-bpoPA8
 
-https://youtu.be/lZbr-bpoPA8
+Part 4 -- Systems Integration https://youtu.be/mraCYDmSbMM
+
+Part 5 -- Level Blueprint https://youtu.be/VGa8mFk10t0
+
+Part 6 -- UDW Landscape Weather Effects https://youtu.be/qcjIGOtPB0k
+
+
+
+
 
 ## Download compiled version of Runtime Demo
 
