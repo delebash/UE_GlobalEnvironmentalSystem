@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-WaterBlueprintFunctionLibrary.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\3DProjects\github\DansProjects\Build52\Intermediate\Build\Win64\x64\Build32Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
 "F:\3DProjects\github\DansProjects\Build52\Plugins\WaterBlueprintFunctionLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterBlueprintFunctionLibrary\Module.WaterBlueprintFunctionLibrary.cpp.obj"
-"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
+"F:\3DProjects\github\DansProjects\Build52\Plugins\WaterBlueprintFunctionLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterBlueprintFunctionLibrary\Default.rc2.res"
 /OUT:"F:\3DProjects\github\DansProjects\Build52\Plugins\WaterBlueprintFunctionLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterBlueprintFunctionLibrary\UnrealEditor-WaterBlueprintFunctionLibrary.lib"
