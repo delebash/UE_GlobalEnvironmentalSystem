@@ -66,11 +66,11 @@
 /DNDEBUG=1
 /DUE_BUILD_DEVELOPMENT=1
 /DORIGINAL_FILE_NAME="UnrealEditor-WaterBlueprintFunctionLibrary.dll"
-/DBUILT_FROM_CHANGELIST=24887336
-/DBUILD_VERSION=++UE5+Release-5.2-CL-24887336
+/DBUILT_FROM_CHANGELIST=25360045
+/DBUILD_VERSION=++UE5+Release-5.2-CL-25360045
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
-/DPROJECT_PRODUCT_NAME="Third Person Game Template"
-/DPROJECT_PRODUCT_IDENTIFIER=Build32
-/fo "F:\3DProjects\github\DansProjects\Build52\Plugins\WaterBlueprintFunctionLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterBlueprintFunctionLibrary\Default.rc2.res"
+/DPROJECT_PRODUCT_NAME="Third Person BP Game Template"
+/DPROJECT_PRODUCT_IDENTIFIER=GES_Test
+/fo "F:\3DProjects\github\DansProjects\GES_Test\Plugins\WaterBlueprintFunctionLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterBlueprintFunctionLibrary\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
