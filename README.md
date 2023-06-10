@@ -1,5 +1,5 @@
 # Unreal Engine 5.1 Global Environmental System (GES)
-# Updated for UE 5.2
+# Updated for UE 5.2 Preview 2
 This system integrates Ultra Dynamic Sky Weather (potentially any Weather System) with Megascan Foliage, Trees, Props,  UE Water, Ambient Wind System, and various other Systems.
  
 Note:  In this current version UDS is required and the only dependency. All the quxiel materials use UDS Wet Weather Effects.  But we should be able to use other Weather Systems such as Sky Creator I just have not done any of the integration or material integration for that yet.
