@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WaterLibrary.cpp.obj": [
+			"WaterLibrary.init.gen.cpp.obj",
+			"WaterLibraryBP.gen.cpp.obj",
+			"WaterLibrary.cpp.obj",
+			"WaterLibraryBP.cpp.obj"
+		]
+	}
+}
