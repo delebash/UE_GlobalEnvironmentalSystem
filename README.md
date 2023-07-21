@@ -50,6 +50,9 @@ ___
 ## Support:
 https://discord.gg/2WkHWNDf8q
 
+## Roadmap:
+https://trello.com/b/UwL88dv5/unreal-global-environmental-system
+
 ## My other projects:
 
 Unreal Mapbox Bridge  -  Import real world locations into UE as Landscapes
