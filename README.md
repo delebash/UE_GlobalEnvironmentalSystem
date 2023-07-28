@@ -4,6 +4,10 @@ This system integrates Ultra Dynamic Sky Weather (potentially any Weather System
  
 Note:  In this current version UDS is required and the only dependency. All the quxiel materials use UDS Wet Weather Effects.  But we should be able to use other Weather Systems such as Sky Creator I just have not done any of the integration or material integration for that yet.
 
+## Update 07/27/2023  
+Added season change and integration with UDW by Dageon
+
+
 ## Setup Video:
 Part 1 --  https://www.youtube.com/watch?v=aE0aYRHvUMI
 
