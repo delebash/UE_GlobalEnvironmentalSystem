@@ -8,18 +8,8 @@ Note:  In this current version UDS is required and the only dependency. All the 
 Added season change and integration with UDW by Dageon
 
 
-## Setup Video:
-Part 1 --  https://www.youtube.com/watch?v=aE0aYRHvUMI
-
-Part 2 -- UE Water and AWS https://youtu.be/UWpersuF8DE
-
-Part 3 -- Foliage Interaction and Wind System https://youtu.be/lZbr-bpoPA8
-
-Part 4 -- Systems Integration https://youtu.be/mraCYDmSbMM
-
-Part 5 -- Level Blueprint https://youtu.be/VGa8mFk10t0
-
-Part 6 -- UDW Landscape Weather Effects https://youtu.be/qcjIGOtPB0k
+## Setup Tutorial Video Playlist:
+https://www.youtube.com/playlist?list=PLFCVXzupw1r9ZK1Q1-jgUi-r2ebAtbecz
 
 
 
