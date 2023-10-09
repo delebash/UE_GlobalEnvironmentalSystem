@@ -1,4 +1,4 @@
-# Unreal Engine 5.2 Global Environmental System (GES)
+# Unreal Engine 5 Global Environmental System (GES)
 
 This system integrates Ultra Dynamic Sky Weather (potentially any Weather System) with Megascan Foliage, Trees, Props,  UE Water, Ambient Wind System, and various other Systems.
  
