@@ -1,0 +1,50 @@
+"F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Module.WaterLibrary.cpp"
+/FI"F:\github\DansProjects\GesTest 5.3\Intermediate\Build\Win64\x64\GesTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h"
+/FI"F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Definitions.WaterLibrary.h"
+/Yu"F:\github\DansProjects\GesTest 5.3\Intermediate\Build\Win64\x64\GesTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h"
+/Fp"F:\github\DansProjects\GesTest 5.3\Intermediate\Build\Win64\x64\GesTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Module.WaterLibrary.cpp.obj"
+/sourceDependencies "F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Module.WaterLibrary.cpp.dep.json"
+@"F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\WaterLibrary.Shared.rsp"
+/Zc:inline
+/nologo
+/Oi
+/FC
+/c
+/Gw
+/Gy
+/utf-8
+/wd4819
+/DSAL_NO_ATTRIBUTE_DECLARATIONS=1
+/permissive-
+/Zc:strictStrings-
+/Zc:__cplusplus
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_WINDLL
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/Ob2
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/EHsc
+/DPLATFORM_EXCEPTIONS_DISABLED=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/we4456
+/we4458
+/we4459
+/we4668
+/wd4244
+/wd4838
+/TP
+/GR-
+/W4
+/std:c++20
+/Zc:preprocessor
+/wd5054

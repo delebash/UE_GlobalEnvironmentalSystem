@@ -72,14 +72,14 @@ void EmptyLinkFunctionForGeneratedCodeWaterLibraryBP() {}
 		{ "NativeConst", "" },
 	};
 #endif
-	const UECodeGen_Private::FStrPropertyParams Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetFolder = { "WaveAssetFolder", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(WaterLibraryBP_eventLoadWaterWaveAssetFile_Parms, WaveAssetFolder), METADATA_PARAMS(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetFolder_MetaData, UE_ARRAY_COUNT(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetFolder_MetaData)) };
+	const UECodeGen_Private::FStrPropertyParams Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetFolder = { "WaveAssetFolder", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(WaterLibraryBP_eventLoadWaterWaveAssetFile_Parms, WaveAssetFolder), METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetFolder_MetaData), Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetFolder_MetaData) };
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetName_MetaData[] = {
 		{ "NativeConst", "" },
 	};
 #endif
-	const UECodeGen_Private::FStrPropertyParams Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetName = { "WaveAssetName", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(WaterLibraryBP_eventLoadWaterWaveAssetFile_Parms, WaveAssetName), METADATA_PARAMS(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetName_MetaData, UE_ARRAY_COUNT(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetName_MetaData)) };
-	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(WaterLibraryBP_eventLoadWaterWaveAssetFile_Parms, ReturnValue), Z_Construct_UClass_UWaterWaves_NoRegister, METADATA_PARAMS(nullptr, 0) };
+	const UECodeGen_Private::FStrPropertyParams Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetName = { "WaveAssetName", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(WaterLibraryBP_eventLoadWaterWaveAssetFile_Parms, WaveAssetName), METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetName_MetaData), Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetName_MetaData) };
+	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(WaterLibraryBP_eventLoadWaterWaveAssetFile_Parms, ReturnValue), Z_Construct_UClass_UWaterWaves_NoRegister, METADATA_PARAMS(0, nullptr) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetFolder,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::NewProp_WaveAssetName,
@@ -93,7 +93,9 @@ void EmptyLinkFunctionForGeneratedCodeWaterLibraryBP() {}
 		{ "WorldContext", "WorldContextObject" },
 	};
 #endif
-	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UWaterLibraryBP, nullptr, "LoadWaterWaveAssetFile", nullptr, nullptr, sizeof(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::WaterLibraryBP_eventLoadWaterWaveAssetFile_Parms), Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04022401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::Function_MetaDataParams)) };
+	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UWaterLibraryBP, nullptr, "LoadWaterWaveAssetFile", nullptr, nullptr, Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::PropPointers), sizeof(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::WaterLibraryBP_eventLoadWaterWaveAssetFile_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04022401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::Function_MetaDataParams), Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::Function_MetaDataParams) };
+	static_assert(UE_ARRAY_COUNT(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::PropPointers) < 2048);
+	static_assert(sizeof(Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile_Statics::WaterLibraryBP_eventLoadWaterWaveAssetFile_Parms) < MAX_uint16);
 	UFunction* Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -118,8 +120,8 @@ void EmptyLinkFunctionForGeneratedCodeWaterLibraryBP() {}
 #endif
 		static const UECodeGen_Private::FFunctionParams FuncParams;
 	};
-	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::NewProp_WorldContextObject = { "WorldContextObject", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(WaterLibraryBP_eventRecalcWaveData_Parms, WorldContextObject), Z_Construct_UClass_UObject_NoRegister, METADATA_PARAMS(nullptr, 0) };
-	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::NewProp_GerstnerWaterWaves = { "GerstnerWaterWaves", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(WaterLibraryBP_eventRecalcWaveData_Parms, GerstnerWaterWaves), Z_Construct_UClass_UGerstnerWaterWaves_NoRegister, METADATA_PARAMS(nullptr, 0) };
+	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::NewProp_WorldContextObject = { "WorldContextObject", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(WaterLibraryBP_eventRecalcWaveData_Parms, WorldContextObject), Z_Construct_UClass_UObject_NoRegister, METADATA_PARAMS(0, nullptr) };
+	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::NewProp_GerstnerWaterWaves = { "GerstnerWaterWaves", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(WaterLibraryBP_eventRecalcWaveData_Parms, GerstnerWaterWaves), Z_Construct_UClass_UGerstnerWaterWaves_NoRegister, METADATA_PARAMS(0, nullptr) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::NewProp_WorldContextObject,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::NewProp_GerstnerWaterWaves,
@@ -132,7 +134,9 @@ void EmptyLinkFunctionForGeneratedCodeWaterLibraryBP() {}
 		{ "WorldContext", "WorldContextObject" },
 	};
 #endif
-	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UWaterLibraryBP, nullptr, "RecalcWaveData", nullptr, nullptr, sizeof(Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::WaterLibraryBP_eventRecalcWaveData_Parms), Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04022401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::Function_MetaDataParams)) };
+	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UWaterLibraryBP, nullptr, "RecalcWaveData", nullptr, nullptr, Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::PropPointers), sizeof(Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::WaterLibraryBP_eventRecalcWaveData_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04022401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::Function_MetaDataParams), Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::Function_MetaDataParams) };
+	static_assert(UE_ARRAY_COUNT(Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::PropPointers) < 2048);
+	static_assert(sizeof(Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData_Statics::WaterLibraryBP_eventRecalcWaveData_Parms) < MAX_uint16);
 	UFunction* Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -161,16 +165,22 @@ void EmptyLinkFunctionForGeneratedCodeWaterLibraryBP() {}
 		(UObject* (*)())Z_Construct_UClass_UBlueprintFunctionLibrary,
 		(UObject* (*)())Z_Construct_UPackage__Script_WaterLibrary,
 	};
+	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_UWaterLibraryBP_Statics::DependentSingletons) < 16);
 	const FClassFunctionLinkInfo Z_Construct_UClass_UWaterLibraryBP_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile, "LoadWaterWaveAssetFile" }, // 2530741172
-		{ &Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData, "RecalcWaveData" }, // 1732115601
+		{ &Z_Construct_UFunction_UWaterLibraryBP_LoadWaterWaveAssetFile, "LoadWaterWaveAssetFile" }, // 2420490813
+		{ &Z_Construct_UFunction_UWaterLibraryBP_RecalcWaveData, "RecalcWaveData" }, // 1280388069
 	};
+	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_UWaterLibraryBP_Statics::FuncInfo) < 2048);
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UWaterLibraryBP_Statics::Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/* \n*\x09""Function library class.\n*\x09""Each function in it is expected to be static and represents blueprint node that can be called in any blueprint.\n*\n*\x09When declaring function you can define metadata for the node. Key function specifiers will be BlueprintPure and BlueprintCallable.\n*\x09""BlueprintPure - means the function does not affect the owning object in any way and thus creates a node without Exec pins.\n*\x09""BlueprintCallable - makes a function which can be executed in Blueprints - Thus it has Exec pins.\n*\x09""DisplayName - full name of the node, shown when you mouse over the node and in the blueprint drop down menu.\n*\x09\x09\x09\x09Its lets you name the node using characters not allowed in C++ function names.\n*\x09""CompactNodeTitle - the word(s) that appear on the node.\n*\x09Keywords -\x09the list of keywords that helps you to find node when you search for it using Blueprint drop-down menu. \n*\x09\x09\x09\x09Good example is \"Print String\" node which you can find also by using keyword \"log\".\n*\x09""Category -\x09the category your node will be under in the Blueprint drop-down menu.\n*\n*\x09""For more info on custom blueprint nodes visit documentation:\n*\x09https://wiki.unrealengine.com/Custom_Blueprint_Node_Creation\n*/" },
+#endif
 		{ "IncludePath", "WaterLibraryBP.h" },
 		{ "ModuleRelativePath", "Public/WaterLibraryBP.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "*      Function library class.\n*      Each function in it is expected to be static and represents blueprint node that can be called in any blueprint.\n*\n*      When declaring function you can define metadata for the node. Key function specifiers will be BlueprintPure and BlueprintCallable.\n*      BlueprintPure - means the function does not affect the owning object in any way and thus creates a node without Exec pins.\n*      BlueprintCallable - makes a function which can be executed in Blueprints - Thus it has Exec pins.\n*      DisplayName - full name of the node, shown when you mouse over the node and in the blueprint drop down menu.\n*                              Its lets you name the node using characters not allowed in C++ function names.\n*      CompactNodeTitle - the word(s) that appear on the node.\n*      Keywords -      the list of keywords that helps you to find node when you search for it using Blueprint drop-down menu.\n*                              Good example is \"Print String\" node which you can find also by using keyword \"log\".\n*      Category -      the category your node will be under in the Blueprint drop-down menu.\n*\n*      For more info on custom blueprint nodes visit documentation:\n*      https://wiki.unrealengine.com/Custom_Blueprint_Node_Creation" },
+#endif
 	};
 #endif
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UWaterLibraryBP_Statics::StaticCppClassTypeInfo = {
@@ -189,7 +199,7 @@ void EmptyLinkFunctionForGeneratedCodeWaterLibraryBP() {}
 		0,
 		0,
 		0x000000A0u,
-		METADATA_PARAMS(Z_Construct_UClass_UWaterLibraryBP_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_UWaterLibraryBP_Statics::Class_MetaDataParams))
+		METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_UWaterLibraryBP_Statics::Class_MetaDataParams), Z_Construct_UClass_UWaterLibraryBP_Statics::Class_MetaDataParams)
 	};
 	UClass* Z_Construct_UClass_UWaterLibraryBP()
 	{
@@ -205,15 +215,15 @@ void EmptyLinkFunctionForGeneratedCodeWaterLibraryBP() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UWaterLibraryBP);
 	UWaterLibraryBP::~UWaterLibraryBP() {}
-	struct Z_CompiledInDeferFile_FID_GES_Test_Plugins_WaterLibrary_Source_WaterLibrary_Public_WaterLibraryBP_h_Statics
+	struct Z_CompiledInDeferFile_FID_github_DansProjects_GesTest_5_3_Plugins_WaterLibrary_Source_WaterLibrary_Public_WaterLibraryBP_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GES_Test_Plugins_WaterLibrary_Source_WaterLibrary_Public_WaterLibraryBP_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UWaterLibraryBP, UWaterLibraryBP::StaticClass, TEXT("UWaterLibraryBP"), &Z_Registration_Info_UClass_UWaterLibraryBP, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UWaterLibraryBP), 2326077158U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_github_DansProjects_GesTest_5_3_Plugins_WaterLibrary_Source_WaterLibrary_Public_WaterLibraryBP_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_UWaterLibraryBP, UWaterLibraryBP::StaticClass, TEXT("UWaterLibraryBP"), &Z_Registration_Info_UClass_UWaterLibraryBP, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UWaterLibraryBP), 3231747342U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GES_Test_Plugins_WaterLibrary_Source_WaterLibrary_Public_WaterLibraryBP_h_3316823776(TEXT("/Script/WaterLibrary"),
-		Z_CompiledInDeferFile_FID_GES_Test_Plugins_WaterLibrary_Source_WaterLibrary_Public_WaterLibraryBP_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GES_Test_Plugins_WaterLibrary_Source_WaterLibrary_Public_WaterLibraryBP_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_github_DansProjects_GesTest_5_3_Plugins_WaterLibrary_Source_WaterLibrary_Public_WaterLibraryBP_h_197527311(TEXT("/Script/WaterLibrary"),
+		Z_CompiledInDeferFile_FID_github_DansProjects_GesTest_5_3_Plugins_WaterLibrary_Source_WaterLibrary_Public_WaterLibraryBP_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_github_DansProjects_GesTest_5_3_Plugins_WaterLibrary_Source_WaterLibrary_Public_WaterLibraryBP_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
