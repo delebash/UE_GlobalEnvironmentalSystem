@@ -71,3 +71,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#IDE junk
+.idea/*
+.vsconfig
